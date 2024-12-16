@@ -63,7 +63,7 @@ education:
   - area: PhD Cybersecurity
     institution: Southeast University
     date_start: 2024-09-01
-    date_end: To date
+    date_end: {{ now.Format "2006-01-02" }}
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
