@@ -10,7 +10,7 @@ first_name: Haoyu
 last_name: WANG
 
 # Status emoji
-status: Too young too simple
+status:
   icon: 🎄
 
 # Is this the primary user of the site?
