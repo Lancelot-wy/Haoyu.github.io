@@ -11,7 +11,7 @@ last_name: WANG
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎄
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,14 +33,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:Randall_hy@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -48,16 +48,16 @@ profiles:
 
 interests:
   - 🔒 **Artificial Intelligence Security**
-  - Exploring vulnerabilities in AI systems.  
-  - Building robust and trustworthy AI.  
-  - Adversarial attacks and defenses.  
+   - Exploring vulnerabilities in AI systems.  
+   - Building robust and trustworthy AI.  
+   - Adversarial attacks and defenses.  
 
   - 💻 **Cybersecurity**  
-  - Intrusion detection systems powered by AI.  
-  - Privacy-preserving machine learning.  
+   - Intrusion detection systems powered by AI.  
+   - Privacy-preserving machine learning.  
 
   - 🤖 **AI Ethics and Policy**  
-  - Fairness, accountability, and transparency in AI.
+   - Fairness, accountability, and transparency in AI.
 
 education:
   - area: PhD Cybersecurity
@@ -84,11 +84,11 @@ education:
     institution: Anhui Agricultural University
     date_start: 2020-09-01
     date_end: 2024-07-01
-    summary: 
-      Graduate Thesis on _Chinese Public Opinion Analysis System Based on Multi-Source Social Media Data and Deep Learning _. Supervised by [Prof Wu]. 
+    summary: |
+      Graduate Thesis on _Chinese Public Opinion Analysis System Based on Multi-Source Social Media Data and Deep Learning_. Supervised by [Prof Wu]. 
     button:
       text: 'Read Thesis'
-      url: 'uploads/论文_Final.pdf'
+      url: 'static/uploads/Gra_Final.pdf'
 
 work:
   - position: Intern of TP
@@ -163,9 +163,9 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Anhui Provincial Department of Education 
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+    # icon:
+    # summary: |
+      
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
