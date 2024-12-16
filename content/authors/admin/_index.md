@@ -1,6 +1,6 @@
 ---
  Display name
- title: 王浩宇
+ title: "王浩宇"
 
 # Name pronunciation (optional)
 name_pronunciation: Wang Haoyu
