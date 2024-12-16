@@ -1,6 +1,6 @@
 ---
-# # Display name
-# title: Wang Haoyu
+ Display name
+ title: 王浩宇
 
 # Name pronunciation (optional)
 name_pronunciation: Wang Haoyu
@@ -10,7 +10,7 @@ first_name: Haoyu
 last_name: WANG
 
 # Status emoji
-status:
+status: Too young too simple
   icon: 🎄
 
 # Is this the primary user of the site?
@@ -88,7 +88,7 @@ education:
       Graduate Thesis on _Chinese Public Opinion Analysis System Based on Multi-Source Social Media Data and Deep Learning_. Supervised by [Prof Wu]. 
     button:
       text: 'Read Thesis'
-      url: '/workspaces/haoyu.github.io/static/uploads/Gra_Final.pdf'
+      url: workspaces/haoyu.github.io/static/uploads/Gra_Final.pdf
 
 work:
   - position: Intern of TP
