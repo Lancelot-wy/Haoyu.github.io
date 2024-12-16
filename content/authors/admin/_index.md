@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王浩宇
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Haoyu Wang
