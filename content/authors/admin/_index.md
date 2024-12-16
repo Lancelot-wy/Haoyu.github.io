@@ -1,9 +1,9 @@
 ---
  Display name
- title: '王浩宇'
+ title: Wang Haoyu
 
 # Name pronunciation (optional)
-name_pronunciation: Wang Haoyu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Haoyu
