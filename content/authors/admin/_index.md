@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Haoyu Wang
 
 # Name pronunciation (optional)
 name_pronunciation: Haoyu Wang
