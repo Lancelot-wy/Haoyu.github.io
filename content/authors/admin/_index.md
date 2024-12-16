@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Haoyu Wang
+title: Wang Haoyu
 
 # Name pronunciation (optional)
-name_pronunciation: Haoyu Wang
+name_pronunciation: Wang Haoyu
 
 # Full name (for SEO)
 first_name: Haoyu
@@ -191,6 +191,6 @@ awards:
 
 ## About Me
 
-Hi there! I'm **Randall Wang**, a first-year Ph.D. student at the **School of Cyber Science and Engineering**, Southeast University. My academic journey began with a Bachelor's degree in **Computer Science and Technology** from **Anhui Agricultural University**, and now I'm diving headfirst into the fascinating world of **Artificial Intelligence Security**.  
+Hi there! I'm **Wang Haoyu (Randall)**, a first-year Ph.D. student at the **School of Cyber Science and Engineering**, Southeast University. My academic journey began with a Bachelor's degree in **Computer Science and Technology** from **Anhui Agricultural University**, and now I'm diving headfirst into the fascinating world of **Artificial Intelligence Security**.  
 
 I thrive at the intersection of **creativity**, **code**, and **cybersecurity**, with a sprinkle of curiosity that keeps me exploring the boundaries of technology. 🚀  
