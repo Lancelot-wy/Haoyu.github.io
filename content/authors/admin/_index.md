@@ -47,16 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
- 🔒 Artificial Intelligence Security
+  icon:🔒 Artificial Intelligence Security
  - Exploring vulnerabilities in AI systems.  
  - Building robust and trustworthy AI.  
  - Adversarial attacks and defenses.  
 
- 💻 **Cybersecurity**  
+  icon:💻 **Cybersecurity**  
  - Intrusion detection systems powered by AI.  
  - Privacy-preserving machine learning.  
 
- 🤖 **AI Ethics and Policy**  
+  icon:🤖 **AI Ethics and Policy**  
  - Fairness, accountability, and transparency in AI.
 
 education:
