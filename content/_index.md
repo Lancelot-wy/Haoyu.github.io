@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "Randall's Website"
+date: 2024-12-16
 type: landing
 
 design:
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/WangHaoyu_Resume.pdf
     design:
       css_class: dark
       background:
