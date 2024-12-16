@@ -1,6 +1,6 @@
 ---
-# Display name
-title: Wang Haoyu
+# # Display name
+# title: Wang Haoyu
 
 # Name pronunciation (optional)
 name_pronunciation: Wang Haoyu
@@ -47,16 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
- - 🔒 Artificial Intelligence Security
+ 🔒 Artificial Intelligence Security
  - Exploring vulnerabilities in AI systems.  
  - Building robust and trustworthy AI.  
  - Adversarial attacks and defenses.  
 
- - 💻 **Cybersecurity**  
+ 💻 **Cybersecurity**  
  - Intrusion detection systems powered by AI.  
  - Privacy-preserving machine learning.  
 
- - 🤖 **AI Ethics and Policy**  
+ 🤖 **AI Ethics and Policy**  
  - Fairness, accountability, and transparency in AI.
 
 education:
