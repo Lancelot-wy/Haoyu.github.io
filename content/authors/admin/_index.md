@@ -88,7 +88,7 @@ education:
       Graduate Thesis on _Chinese Public Opinion Analysis System Based on Multi-Source Social Media Data and Deep Learning_. Supervised by _Prof. Wu_. 
     button:
       text: 'Read Thesis'
-      url:  uploads/论文_Final.pdf
+      url: /workspaces/haoyu.github.io/static/uploads/论文_Final.pdf
 
 work:
   - position: Intern of TP
