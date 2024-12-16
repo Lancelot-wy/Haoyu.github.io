@@ -85,10 +85,10 @@ education:
     date_start: 2020-09-01
     date_end: 2024-07-01
     summary: |
-      Graduate Thesis on _Chinese Public Opinion Analysis System Based on Multi-Source Social Media Data and Deep Learning_. Supervised by [Prof Wu]. 
+      Graduate Thesis on _Chinese Public Opinion Analysis System Based on Multi-Source Social Media Data and Deep Learning_. Supervised by \[Prof Wu\]. 
     button:
       text: 'Read Thesis'
-      url: workspaces/haoyu.github.io/static/uploads/Gra_Final.pdf
+      url:  uploads/Gra_Final.pdf
 
 work:
   - position: Intern of TP
