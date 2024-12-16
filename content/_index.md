@@ -21,10 +21,10 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: light
         image:
           # Add your image background to `assets/media/`.
-          filename: ''
+          filename: 'back.png'
           filters:
             brightness: 1.0
           size: cover
